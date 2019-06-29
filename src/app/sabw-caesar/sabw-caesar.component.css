@@ -6,7 +6,7 @@
 #scheibe_innen {
   width: 550px;
   position: absolute;
-  transform: rotate(318.1deg)
+  /* transform: rotate(318.1deg) */
 }
 #container{
   height: 550px;
