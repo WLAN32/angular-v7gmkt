@@ -1,0 +1,12 @@
+
+#scheibe {
+  width: 550px;
+  position: absolute;
+}
+#scheibe_innen {
+  width: 550px;
+  position: absolute;
+}
+#container{
+  height: 550px;
+}
