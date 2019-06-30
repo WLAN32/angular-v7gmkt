@@ -7,6 +7,7 @@
   width: 550px;
   position: absolute;
   /* transform: rotate(318.1deg) */
+  transition: all 2s;
 }
 #container{
   height: 550px;
