@@ -19,5 +19,4 @@ let deg = 360-360/26*this.zahl
 
   ngOnInit() {
   }
-
 }
